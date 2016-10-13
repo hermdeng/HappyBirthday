@@ -3,6 +3,7 @@ body{
   background-color:black;
 }
 .b{
+  border: 3px solid black;
   position:relative;
   margin:170px auto;
   height:380px;
