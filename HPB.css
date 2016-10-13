@@ -3,14 +3,14 @@ body{
   background-color:black;
 }
 .b{
-  border: 15px solid white;
+  border: 10px solid white;
   position:relative;
   margin: 0 auto;
-  height:800px;
-  width:700px;
+  height:500px;
+  width:400px;
   background-image:url("http://1.bp.blogspot.com/-jHjIdEmi63k/T3fx8QKJuXI/AAAAAAAAEbY/ZoVmKSoPQek/s1600/lou's+rose+frame.png");
   background-position:center;
-  background-size:650px;
+  background-size:550px;
   background-repeat: no-repeat; 
   background-color:cyan;
 }
