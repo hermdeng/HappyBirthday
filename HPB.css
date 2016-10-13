@@ -1,0 +1,39 @@
+body{
+  background-color:black;
+}
+.b{
+  border: 15px solid white;
+  position:relative;
+  margin: 0 auto;
+  height:800px;
+  width:700px;
+  background-image:url("http://1.bp.blogspot.com/-jHjIdEmi63k/T3fx8QKJuXI/AAAAAAAAEbY/ZoVmKSoPQek/s1600/lou's+rose+frame.png");
+  background-position:center;
+  background-size:650px;
+  background-repeat: no-repeat; 
+  background-color:cyan;
+}
+.p1{
+  position:absolute;
+  margin: 200px 150px;
+  color:black;
+  font-size:25px;
+  font-weight:bold;
+  font-style: oblique;
+  text-shadow: 2px 2px white;
+}
+.p2{
+  position:absolute;
+  margin: 200px 250px;
+  color:black;
+  font-size:40px;
+  font-weight:bold;
+  font-style: oblique;
+  text-shadow: 2px 2px white;
+}
+#sdr {
+	margin: 200px 400px;
+}
+#btn {
+	margin: 300px 300px;
+}
