@@ -8,6 +8,36 @@ body{
   margin: 0 auto;
   height:800px;
   width:700px;
+  background-image:url("http://1.bp.blogspot.com/-jHjIdEmi63k/T3fx8QKJuXI/AAAAAAAAEbY/ZoVmKSoPQek/s1600/lou's+rose+frame.png");
+  background-position:center;
+  background-size:650px;
+  background-repeat: no-repeat; 
+  background-color:cyan;
+}
+.p1{
+  position:absolute;
+  margin: 200px;
+  color:black;
+  font-size:25px;
+  font-weight:bold;
+  font-style: oblique;
+  text-shadow: 2px 2px white;
+}
+.p2{
+  position:absolute;
+  margin: 200px;
+  color:black;
+  font-size:40px;
+  font-weight:bold;
+  font-style: oblique;
+  text-shadow: 2px 2px white;
+}
+/*.b{
+  border: 15px solid white;
+  position:relative;
+  margin: 0 auto;
+  height:800px;
+  width:700px;
   background-position:center;
   background-size:650px;
   background-repeat: no-repeat; 
@@ -34,3 +64,4 @@ body{
 #btn {
 	margin: 300px 300px;
 }
+*/
