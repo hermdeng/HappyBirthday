@@ -16,7 +16,7 @@ body{
 }
 .p1{
   position:absolute;
-  margin: 100px;
+  margin: 50px;
   color:black;
   font-size:25px;
   font-weight:bold;
@@ -25,7 +25,7 @@ body{
 }
 .p2{
   position:absolute;
-  margin: 100px;
+  margin: 50px;
   color:black;
   font-size:40px;
   font-weight:bold;
